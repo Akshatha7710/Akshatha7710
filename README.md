@@ -106,16 +106,16 @@
 
   <section>
     <h2>💻 Skills</h2>
-    <div class="skills">
-      <span>Python 🐍</span>
-      <span>Java ☕</span>
-      <span>HTML</span>
-      <span>CSS</span>
-      <span>JavaScript</span>
-      <span>C# (Basic)</span>
-      <span>NumPy 📊</span>
-      <span>Pandas 🐼</span>
-    </div>
+    <ul class="skills">
+      <li>Python 🐍</li>
+      <li>Java ☕</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>C# (Basic)</li>
+      <li>NumPy 📊</li>
+      <li>Pandas 🐼</li>
+    </ul>
   </section>
 
   <section>
@@ -130,8 +130,8 @@
   <section>
     <h2>📫 Connect With Me</h2>
     <p>
-      💼 <a href="#" target="_blank">LinkedIn</a> <br>
-      📧 <a href="mailto:yourname@example.com">yourname@example.com</a>
+      💼 <a href="https://www.linkedin.com/in/akshatha-balachandran-866a71332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">LinkedIn</a> <br>
+      📧 <a href="mailto:balachandranakshatha@gmail.com">balachandranakshatha@gmail.com</a>
     </p>
   </section>
 

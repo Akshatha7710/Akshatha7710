@@ -13,23 +13,19 @@
       padding: 0;
       line-height: 1.6;
     }
-
     header {
       text-align: center;
       padding: 60px 20px;
       background: linear-gradient(135deg, #4f46e5, #9333ea);
       color: white;
     }
-
     header h1 {
       margin: 0;
       font-size: 2.5em;
     }
-
     header p {
       font-size: 1.2em;
     }
-
     section {
       max-width: 900px;
       margin: 40px auto;
@@ -38,45 +34,37 @@
       border-radius: 15px;
       box-shadow: 0 0 10px rgba(0,0,0,0.4);
     }
-
     h2 {
       color: #58a6ff;
       border-bottom: 2px solid #58a6ff;
       padding-bottom: 5px;
     }
-
     ul {
       list-style-type: none;
       padding: 0;
     }
-
     li::before {
       content: "• ";
       color: #58a6ff;
     }
-
     a {
       color: #58a6ff;
       text-decoration: none;
     }
-
     a:hover {
       text-decoration: underline;
     }
-
     footer {
       text-align: center;
       padding: 30px;
       color: #8b949e;
     }
-
     .quote {
       font-style: italic;
       text-align: center;
       margin-top: 20px;
       color: #9baec8;
     }
-
     .skills span {
       display: inline-block;
       background: #21262d;
